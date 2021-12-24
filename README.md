@@ -15,6 +15,7 @@ An up-to-date list of vision-language (VL) pre-training paper! Maintained by [Ha
 
 [UNITER: UNiversal Image-TExt Representation Learning](https://arxiv.org/abs/1909.11740), [[code](https://github.com/ChenRocks/UNITER)], Microsoft.
 
+[ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks](https://arxiv.org/abs/1908.02265), [[code](https://github.com/facebookresearch/vilbert-multi-task)], Meta AI.
 
 
 ## Masked Image Modeling
