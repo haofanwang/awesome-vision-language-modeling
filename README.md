@@ -2,16 +2,19 @@
 An up-to-date list of vision-language (VL) pre-training paper! Maintained by [Haofan Wang](https://haofanwang.github.io/) (haofanwang.ai@gmail.com).
 
 
-## Pre-training
-[SLIP: Self-supervision meets Language-Image Pre-training](https://arxiv.org/abs/2112.12750), [[code](https://github.com/facebookresearch/SLIP)], Meta AI.
+## SSL+Pre-training
+*[SLIP: Self-supervision meets Language-Image Pre-training](https://arxiv.org/abs/2112.12750), [[code](https://github.com/facebookresearch/SLIP)], Meta AI.
 
-[FILIP: Fine-grained Interactive Language-Image Pre-Training](https://arxiv.org/pdf/2111.07783.pdf), [[Unofficial code](https://github.com/lucidrains/x-clip)], Huawei.
+*[MLIM: Vision-and-Language Model Pre-training with Masked Language and Image Modeling](https://arxiv.org/abs/2109.12178), Amazon.
 
-[LiT: Zero-Shot Transfer with Locked-image Text Tuning](https://arxiv.org/abs/2111.07991), [[Unofficial code](https://github.com/lucidrains/x-clip)], Google.
+*[Data Efficient Masked Language Modeling for Vision and Language](https://arxiv.org/abs/2109.02040), [[code](https://github.com/yonatanbitton/data_efficient_masked_language_modeling_for_vision_and_language)], Ben Gurion University.
 
-[Prompting Visual-Language Models for Efficient Video Understanding](https://arxiv.org/pdf/2112.04478.pdf), [[code](https://github.com/ju-chen/Efficient-Prompt)], SJTU.
+[VL-BERT: Pre-training of Generic Visual-Linguistic Representations](https://arxiv.org/abs/1908.08530), [[code](https://github.com/jackroos/VL-BERT)], MSRA.
 
-[TiP-Adapter: Training-free CLIP-Adapter for Better Vision-Language Modeling](https://arxiv.org/abs/2111.03930), [[code](https://github.com/gaopengcuhk/Tip-Adapter)], CUHK.
+[Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training](https://arxiv.org/pdf/1908.06066.pdf), [[code](https://github.com/microsoft/Unicoder)], MSRA.
+
+[UNITER: UNiversal Image-TExt Representation Learning](https://arxiv.org/abs/1909.11740), [[code](https://github.com/ChenRocks/UNITER)], Microsoft.
+
 
 
 ## Masked Image Modeling
@@ -30,3 +33,13 @@ An up-to-date list of vision-language (VL) pre-training paper! Maintained by [Ha
 
 ## Masked Language Modeling
 [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805), [[code](https://github.com/google-research/bert)], Google.
+
+## Others
+
+[FILIP: Fine-grained Interactive Language-Image Pre-Training](https://arxiv.org/pdf/2111.07783.pdf), [[Unofficial code](https://github.com/lucidrains/x-clip)], Huawei.
+
+[LiT: Zero-Shot Transfer with Locked-image Text Tuning](https://arxiv.org/abs/2111.07991), [[Unofficial code](https://github.com/lucidrains/x-clip)], Google.
+
+[Prompting Visual-Language Models for Efficient Video Understanding](https://arxiv.org/pdf/2112.04478.pdf), [[code](https://github.com/ju-chen/Efficient-Prompt)], SJTU.
+
+[TiP-Adapter: Training-free CLIP-Adapter for Better Vision-Language Modeling](https://arxiv.org/abs/2111.03930), [[code](https://github.com/gaopengcuhk/Tip-Adapter)], CUHK.
