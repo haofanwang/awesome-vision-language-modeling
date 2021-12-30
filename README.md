@@ -3,6 +3,9 @@ An up-to-date list of vision-language (VL) pre-training paper! Maintained by [Ha
 
 
 ## SSL+Pre-training
+
+[A Fistful of Words: Learning Transferable Visual Models from Bag-of-Words Supervision](https://arxiv.org/abs/2112.13884), Meta AI.
+
 *[SLIP: Self-supervision meets Language-Image Pre-training](https://arxiv.org/abs/2112.12750), [[code](https://github.com/facebookresearch/SLIP)], Meta AI.
 
 *[MLIM: Vision-and-Language Model Pre-training with Masked Language and Image Modeling](https://arxiv.org/abs/2109.12178), Amazon.
