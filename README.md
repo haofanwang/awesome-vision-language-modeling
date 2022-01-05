@@ -4,6 +4,8 @@ An up-to-date list of vision-language (VL) pre-training paper! Maintained by [Ha
 
 ## SSL+Pre-training
 
+*[FLAVA: A Foundational Language And Vision Alignment Model](https://arxiv.org/pdf/2112.04482.pdf), Meta AI.
+
 [A Fistful of Words: Learning Transferable Visual Models from Bag-of-Words Supervision](https://arxiv.org/abs/2112.13884), Meta AI.
 
 *[SLIP: Self-supervision meets Language-Image Pre-training](https://arxiv.org/abs/2112.12750), [[code](https://github.com/facebookresearch/SLIP)], Meta AI.
