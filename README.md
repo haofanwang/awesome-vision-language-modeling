@@ -44,6 +44,8 @@ An up-to-date list of vision-language (VL) pre-training paper! Maintained by [Ha
 
 [LiT: Zero-Shot Transfer with Locked-image Text Tuning](https://arxiv.org/abs/2111.07991), [[Unofficial code](https://github.com/lucidrains/x-clip)], Google.
 
+[Multimodal Few-Shot Learning with Frozen Language Models](https://proceedings.neurips.cc/paper/2021/file/01b7575c38dac42f3cfb7d500438b875-Paper.pdf), DeepMind.
+
 [Prompting Visual-Language Models for Efficient Video Understanding](https://arxiv.org/pdf/2112.04478.pdf), [[code](https://github.com/ju-chen/Efficient-Prompt)], SJTU.
 
 [TiP-Adapter: Training-free CLIP-Adapter for Better Vision-Language Modeling](https://arxiv.org/abs/2111.03930), [[code](https://github.com/gaopengcuhk/Tip-Adapter)], CUHK.
