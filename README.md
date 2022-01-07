@@ -4,6 +4,8 @@ An up-to-date list of vision-language (VL) pre-training paper! Maintained by [Ha
 
 ## SSL+Pre-training
 
+[Towards a Unified Foundation Model: Jointly Pre-Training Transformers on Unpaired Images and Text](https://arxiv.org/abs/2112.07074), Google.
+
 [ERNIE-ViLG: Unified Generative Pre-training for Bidirectional Vision-Language Generation](https://arxiv.org/abs/2112.15283), Baidu.
 
 *[FLAVA: A Foundational Language And Vision Alignment Model](https://arxiv.org/pdf/2112.04482.pdf), Meta AI.
