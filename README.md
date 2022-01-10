@@ -46,6 +46,8 @@ An up-to-date list of vision-language (VL) pre-training paper! Maintained by [Ha
 
 ## Others
 
+[Align and Prompt: Video-and-Language Pre-training with Entity Prompts](https://arxiv.org/abs/2112.09583), Saleforce.
+
 [FILIP: Fine-grained Interactive Language-Image Pre-Training](https://arxiv.org/pdf/2111.07783.pdf), [[Unofficial code](https://github.com/lucidrains/x-clip)], Huawei.
 
 [LiT: Zero-Shot Transfer with Locked-image Text Tuning](https://arxiv.org/abs/2111.07991), [[Unofficial code](https://github.com/lucidrains/x-clip)], Google.
